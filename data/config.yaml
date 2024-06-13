@@ -1,0 +1,29 @@
+subsampling:
+    CutDetectionSubsampler:
+        args:
+            cut_detection_mode: "all"
+            framerates: null
+            threshold: 11.5
+            min_scene_len: 15
+reading:
+    yt_args:
+        download_size: 360
+        download_audio_rate: 44100
+        yt_metadata_args:
+            writesubtitles: 'all'
+            subtitleslangs: ['en']
+            writeautomaticsub: True
+            get_info: True
+    timeout: 180
+    sampler: null
+
+storage:
+    number_sample_per_shard: 100
+    captions_are_subtitles: False
+    oom_shard_count: 5
+
+distribution:
+    processes_count: 2
+    thread_count: 8
+    subjob_size: 1000
+    distributor: "multiprocessing"

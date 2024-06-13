@@ -1,0 +1,10 @@
+/.history
+examples/
+*.pyc
+*.pt
+wandb/
+
+.history
+/cococaption
+
+Mico-g/
