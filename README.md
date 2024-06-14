@@ -2,14 +2,15 @@
 <img src="assets/banner.png"  width="100%" height="80%">
 </p>
 
-[![arXiv](https://img.shields.io/badge/arxiv-2406.xxxxx-b31b1b?style=plastic&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2406.xxxxx)](https://arxiv.org/abs/2406.xxxxx)
+[![arXiv](https://img.shields.io/badge/arxiv-2406.09412-b31b1b?style=plastic&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2406.09412)](https://arxiv.org/abs/2406.09412)
 [![website](https://img.shields.io/badge/Project-Website-purple)](https://invictus717.github.io/MiCo/)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Yiyuan/MiCo-ViT-g-14-omnimodal-300k-b64K)
-<a href="https://twitter.com/_akhaliq/status/1682248055637041152"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social"></a>
-<a href="https://www.youtube.com/watch?v=V8L8xbsTyls&ab_channel=CSBoard"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="28" height="23"></a> 
 <a href="#LICENSE--citation">
   <img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/>
 </a>
+<!-- <a href="https://twitter.com/_akhaliq/status/1682248055637041152"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social"></a>
+<a href="https://www.youtube.com/watch?v=V8L8xbsTyls&ab_channel=CSBoard"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="28" height="23"></a>  -->
+
 
 
 ### ✨ Inspiration of Multimodal Context: Multimedia Brain Cognition
@@ -78,7 +79,7 @@ If the code and paper help your research, please kindly cite:
 @article{zhang2024explore,
   title={Explore the Limits of Omni-modal Pretraining at Scale},
   author={Zhang, Yiyuan and Li, Handong and Liu, Jing and Yue, Xiangyu},
-  journal={arXiv preprint arXiv:2406.xxxxx},
+  journal={arXiv preprint arXiv:2406.09412},
   year={2024}
 }
 ```
