@@ -2,7 +2,7 @@
 
 ### Explore the Limits of Omni-modal Pretraining at Scale
 
-- arXiv: [this link](https://arxiv.org/abs/2406.xxxxx)
+- arXiv: [this link](https://arxiv.org/abs/2406.09412)
 
 - Code: [this link](https://github.com/invictus717/MiCo)
 
